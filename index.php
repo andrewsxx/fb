@@ -9,7 +9,11 @@
         <div id="fb-root"></div>
         <div class="container" style="margin-top: 20px;">
             <div class="row">
-                <a href="#" class="btn btn-default">connect by js</a>
+                <a href="#" class="btn btn-default facebook-btn">connect by JS</a>
+                <a href="#" class="btn btn-default">connect by PHP</a>
+            </div>
+            <div class="row user-info"style="min-height: 100px; margin-top: 20px; display: none;">
+                <img>
             </div>
         </div>
     </body>
